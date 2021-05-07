@@ -1,9 +1,9 @@
 const express = require('express');
 const app = express();
 
-const RepositoriesRouter = require('./server/routes/repositories');
+const LanguagesRouter = require('./server/routes/languages');
 
-app.use('/repositories', RepositoriesRouter);
+app.use('/languages', LanguagesRouter);
 
 app.get('/', (req, res) => {
   res.send('Hello there!')
