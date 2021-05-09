@@ -40,11 +40,11 @@ http://localhost:3000/languages/getTrendingLanguagesInRepos
 
 ## What to expect
 
-You will recieve a data array in JSON format including:
+You will recieve a data list in JSON format including:
 
-- language
-- number of repositories using the language
-- an array of repositories (as objects) using the language
+- Language
+- Number of repositories using the language
+- A list of repositories (as objects) using the language
 
 
 ## Credits
