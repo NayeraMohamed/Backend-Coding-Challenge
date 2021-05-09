@@ -1,4 +1,4 @@
-# Backend-Node.js-Coding-Challenge
+# Backend-Coding-Challenge
 
 ## About The Coding Challenge
 
