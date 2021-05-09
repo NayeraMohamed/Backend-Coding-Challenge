@@ -22,7 +22,7 @@ Trending repositories simply translates to fetching the most starred repos creat
 - For development, you will need Node.js, Express.js and a javascript package manager, npm, installed in your environement.
 - To install all dependent npm packages, use:
 ```
-  $ npm-install-all
+  $ npm install all
 ```
 
 ## Running the project
