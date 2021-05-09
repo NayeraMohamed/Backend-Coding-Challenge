@@ -38,6 +38,8 @@ $ npm start
 http://localhost:3000/languages/getTrendingLanguagesInRepos
 ```
 
+## What to expect
+
 You will recieve a data array in JSON format including:
 
 - language
