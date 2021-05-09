@@ -17,19 +17,21 @@ Trending repositories simply translates to fetching the most starred repos creat
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
 ## Prerequisites
 
 - For development, you will need Node.js, Express.js and a javascript package manager, npm, installed in your environement.
 - To install all dependent npm packages, use:
+```
   $ npm-install-all
+```
 
 ## Running the project
 
-- $ npm start
+-Run the following command:
+
+ ```
+$ npm start
+```
 - call the following endpoint on your local host:
 
 ```
