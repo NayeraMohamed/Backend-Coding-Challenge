@@ -6,6 +6,7 @@
 - For every language, you need to calculate the attributes below 👇:
     - Number of repos using this language
     - The list of repos using the language
+
 Trending repositories simply translates to fetching the most starred repos created in the last 30 days ( from now ).
 
 ## Built With
