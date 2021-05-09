@@ -27,7 +27,7 @@ Trending repositories simply translates to fetching the most starred repos creat
 
 ## Running the project
 
--Run the following command:
+- Run the following command:
 
  ```
 $ npm start
