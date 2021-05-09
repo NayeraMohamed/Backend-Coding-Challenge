@@ -32,7 +32,7 @@ Trending repositories simply translates to fetching the most starred repos creat
  ```
 $ npm start
 ```
-- call the following endpoint on your local host:
+- Call the following endpoint on your local host:
 
 ```
 http://localhost:3000/languages/getTrendingLanguagesInRepos
